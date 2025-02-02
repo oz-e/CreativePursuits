@@ -1,0 +1,13 @@
+---
+title: "Beamer is boring"
+author: "oz-e"
+date: "2025-01-30"
+categories: [beamer, LaTeX]
+image: "image.jpg"
+---
+
+Many have said that every Beamer presentation looks the same. I've decided to explore what can be done with Beamer, and prove that, with a little effort, Beamer slides can be more interesting. I'll be updating this over time and there'll also be some templates provided and/or showcased at some point.
+
+::: {.callout-note}
+Hello
+:::
